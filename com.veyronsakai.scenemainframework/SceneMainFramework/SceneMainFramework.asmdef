@@ -1,0 +1,15 @@
+{
+    "name": "SceneMainFramework",
+    "references": [
+        "VeyronSakai.PrefabGenerator"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,6 @@
+[submodule "com.veyronsakai.scenemainframework/LocalPackages/PrefabGenerator"]
+	path = com.veyronsakai.scenemainframework/LocalPackages/PrefabGenerator
+	url = https://github.com/VeyronSakai/PrefabGenerator.git
+[submodule "Samples/SceneMainFrameworkSample/LocalPackages/PrefabGenerator"]
+	path = Samples/SceneMainFrameworkSample/LocalPackages/PrefabGenerator
+	url = https://github.com/VeyronSakai/PrefabGenerator.git
